@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Web%20Full-Stack%20;Estudando%20Engenharia%20da%20Computação;Sempre%20em%20busca%20de%20novos%20conhecimentos&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Web%20Full-Stack%20;Estudando%20Engenharia%20da%20Computação;Sempre%20em%20busca%20de%20novos%20conhecimentos&font=Fira%20Code&center=true&width=530&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 
