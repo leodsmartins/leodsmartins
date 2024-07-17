@@ -1,13 +1,13 @@
 ###
 
 <h3 align="center">
- Olá! Me chamo Leonardo Martins. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </br>  Seja bem vind@!   
+ Olá! Me chamo Leonardo Martins. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 </h3>
 </br>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Web%20Full-Stack%20;Cursando%20Engenharia%20da%20Computação;Sempre%20em%20busca%20de%20novos%20conhecimentos&font=Fira%20Code&center=true&width=530&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Engenheiro de Softwares%20Web%20Front-end%20;Back-end%20&font=Fira%20Code&center=true&width=530&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 ##
