@@ -8,25 +8,6 @@
 
 ##
 
-<div align="start"><br> 
-<!--  <h3>Skills:</h3>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="NestJS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-          
- 
-  </div>
-
-</br>
-</br>
-
-
-
-
 <h3>Entre em contato:</h3>
  <div align="start">    
    <a href="https://www.linkedin.com/in/leonardodsmartins/" target="_blank">
@@ -35,17 +16,6 @@
    <a href = "mailto:leodsmartins@gmail.com"  target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
  </div>
- 
- </br>
- </br>
-
-
-   ![Snake animation](https://github.com/leodsmartins/leodsmartins/blob/output/github-contribution-grid-snake.svg)
-
- 
-
- 
-
  
 
 
